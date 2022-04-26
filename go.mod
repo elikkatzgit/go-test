@@ -7,7 +7,7 @@ require (
         k8s.io/api v0.23.5
         k8s.io/apimachinery v0.23.5
         k8s.io/client-go v0.23.5
-        sigs.k8s.io/kustomize/api v0.11.4
+        sigs.k8s.io/kustomize/api/v3 v3.3.1
         sigs.k8s.io/kustomize/kyaml v0.13.6
         github.com/davecgh/go-spew v1.1.1 // indirect
         github.com/evanphx/json-patch v5.6.0+incompatible // indirect
