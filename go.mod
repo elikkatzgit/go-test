@@ -9,9 +9,6 @@ require (
         k8s.io/client-go v0.23.5
         sigs.k8s.io/kustomize/api v0.11.4
         sigs.k8s.io/kustomize/kyaml v0.13.6
-)
-
-require (
         github.com/davecgh/go-spew v1.1.1 // indirect
         github.com/evanphx/json-patch v5.6.0+incompatible // indirect
         github.com/go-errors/errors v1.4.2 // indirect
