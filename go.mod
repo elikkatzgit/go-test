@@ -18,7 +18,7 @@ require (
         github.com/go-openapi/swag v0.21.1
         github.com/gogo/protobuf v1.3.2
         github.com/golang/protobuf v1.5.2
-        github.com/google/gnostic v0.6.
+        github.com/google/gnostic v0.6.8
         github.com/google/go-cmp v0.5.7
         github.com/google/gofuzz v1.2.0
         github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
