@@ -34,7 +34,7 @@ require (
         github.com/xlab/treeprint v1.1.0
         go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
         golang.org/x/net v0.0.0-20220412020605-290c469a71a5
-        golang.org/x/sys v0.0.0-20220412071739-889880a91fd5
+        golang.org/x/sys bc2c85ada10a
         golang.org/x/text v0.3.7
         google.golang.org/protobuf v1.28.0
         gopkg.in/inf.v0 v0.9.1
