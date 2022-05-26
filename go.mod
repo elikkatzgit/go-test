@@ -33,7 +33,7 @@ require (
         github.com/pmezard/go-difflib v1.0.0
         github.com/xlab/treeprint v1.1.0
         go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
-        golang.org/x/net v0.0.0-20220412020605-290c469a71a5
+        golang.org/x/net 5463443f8c37
         golang.org/x/sys v0.0.0-20220412071739-889880a91fd5
         golang.org/x/text v0.3.7
         google.golang.org/protobuf v1.28.0
