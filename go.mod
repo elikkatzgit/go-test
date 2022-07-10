@@ -6,7 +6,7 @@ require (
         github.com/stretchr/testify v1.7.1
         k8s.io/api v0.23.5
         k8s.io/apimachinery v0.23.5
-        k8s.io/client-go v0.23.5
+        k8s.io/client-go/v12 v12.0.0
         sigs.k8s.io/kustomize/api v0.11.4
         sigs.k8s.io/kustomize/kyaml v0.13.6
         github.com/davecgh/go-spew v1.1.1
