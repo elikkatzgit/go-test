@@ -39,7 +39,7 @@ require (
         google.golang.org/protobuf v1.28.0
         gopkg.in/inf.v0 v0.9.1
         gopkg.in/yaml.v2 v2.4.0
-        gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+        gopkg.in/yaml.v3 v3.0.1
         k8s.io/klog/v2 v2.60.1
         k8s.io/kube-openapi v0.0.0-20220401212409-b28bf2818661
         k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9
