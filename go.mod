@@ -22,7 +22,7 @@ require (
         github.com/google/go-cmp v0.5.7
         github.com/google/gofuzz v1.2.0
         github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
-        github.com/imdario/mergo v0.3.12
+        github.com/imdario/mergo v0.3.16
         github.com/josharian/intern v1.0.0
         github.com/json-iterator/go v1.1.12
         github.com/mailru/easyjson v0.7.7
